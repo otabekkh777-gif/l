@@ -106,7 +106,7 @@ WEBHOOK_URL = f"https://{RENDER_EXTERNAL_HOSTNAME}{WEBHOOK_PATH}"
 
 # ======================== Bot sozlamalari ========================
 BOT_USERNAME = "Kino_mir7_bot"
-CHANNEL_USERNAME = "t"
+CHANNEL_USERNAME = ""
 CHANNEL_URL = ""
 INSTAGRAM_URL = ""
 
